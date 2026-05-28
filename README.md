@@ -30,6 +30,7 @@ Python · scikit-learn · pandas · Matplotlib · Flask
 
 ## Get In Touch
 
-📧 [jamesndungukabuga@gmail.com]
+📧 jamesndungukabuga@gmail.com
+
 📍 Nyeri, Kenya
 
