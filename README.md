@@ -20,7 +20,7 @@ I’m building a branch-level inventory intelligence system that uses machine le
 ## What I'm Currently Learning
 
 - ✅ Supervised Learning — Random Forest, Regression, Classification
-- 📍 Unsupervised Learning — K-Means Clustering (current, 2hrs/day)
+- 📍 Unsupervised Learning — K-Means Clustering (current)
 - 🔜 Flask web development — for the SIIS dashboard
 - 🔜 Feature engineering for time-series retail data
 
