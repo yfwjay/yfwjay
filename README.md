@@ -1,6 +1,7 @@
 ## Hi I'm James Kabuga 👋
 
 2nd Year Software Engineering student at Murang'a University of Technology, Kenya.
+
 Currently focused on Data Science and Machine Learning.
 
 ## What I'm Building
