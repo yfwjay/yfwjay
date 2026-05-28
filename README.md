@@ -15,7 +15,7 @@ At the supermarket level, fresh inventory losses from expiry directly impact alr
 
 I’m building a branch-level inventory intelligence system that uses machine learning to help supermarkets predict expiry risk, optimise discount timing, and reduce preventable food waste.
 
-→ [View the project](provide the link later)
+→ View the project (https://github.com/yfwjay/smart-inventory-intelligence-system)
 
 ## What I'm Currently Learning
 
