@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi I'm James Kabuga 👋
 
-<!--
-**yfwjay/yfwjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd Year Software Engineering student at Murang'a University of Technology, Kenya.
+Currently focused on Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+## What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Smart Inventory Intelligence System (SIIS)**
+An ML-powered dashboard helping Kenyan supermarkets cut fresh food waste —
+through expiry alerts, dynamic pricing predictions, and automated
+donate/discount/keep decisions.
+
+Kenya loses an estimated KES 72 billion in food annually across the supply chain. 
+At the supermarket level, fresh inventory losses from expiry directly impact already thin retail margins, yet expiry management in many stores remains largely manual and reactive.
+
+I’m building a branch-level inventory intelligence system that uses machine learning to help supermarkets predict expiry risk, optimise discount timing, and reduce preventable food waste.
+
+→ [View the project](provide the link later)
+
+## What I'm Currently Learning
+
+- ✅ Supervised Learning — Random Forest, Regression, Classification
+- 📍 Unsupervised Learning — K-Means Clustering (current, 2hrs/day)
+- 🔜 Flask web development — for the SIIS dashboard
+- 🔜 Feature engineering for time-series retail data
+
+## Stack
+
+Python · scikit-learn · pandas · Matplotlib · Flask
+
+## Get In Touch
+
+📧 [jamesndungukabuga@gmail.com]
+📍 Nyeri, Kenya
+
