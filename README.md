@@ -14,17 +14,6 @@ I’m building a branch-level inventory intelligence system that uses machine le
 
 → [View the project](https://github.com/yfwjay/smart-inventory-intelligence-system)
 
-## What I'm Currently Learning
-
-- ✅ Supervised Learning — Random Forest, Regression, Classification
-- ✅Unsupervised Learning — K-Means Clustering (current)
-- 🔜 Streamlit — for the SIIS dashboard
-- 🔜 SQL and PostgreSQL
-
-## Stack
-
-Python · scikit-learn · pandas · Matplotlib · Flask
-
 ## Get In Touch
 
 📧 jamesndungukabuga@gmail.com
